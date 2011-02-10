@@ -2,7 +2,7 @@
 A utility to translate the strings in a properties file. Uses [easy_translate](https://github.com/seejohnrun/easy_translate) to interface with the Google Transate API.
 
 ##Installation
-    % git clone https://github.com/watsoncj/translate_properties
+    % git clone git://github.com/watsoncj/translate_properties.git
     % cd translate_properties
     % bundler
 
